@@ -1,4 +1,4 @@
-# Weather App
+# Node Weather App
 
 This application is designed to provide weather information based on user input and location data. This README file will guide you through the setup process and explain how to use the app effectively.
 
